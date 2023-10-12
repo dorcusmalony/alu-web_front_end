@@ -264,6 +264,7 @@
   .nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
     width: 100%;
+    max-width: 767px;
   }
   
   /* Header
@@ -402,6 +403,7 @@
   
   .section-latest-news .row {
     flex-direction: column;
+    max-width: 767px;
   }
   
   /* Section SERVICES
