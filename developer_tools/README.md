@@ -1,5 +1,5 @@
-#Resources
-##Read or watch:
+#[Resources]
+##[Read or watch]:
 
 .[https://intranet.aluswe.com/rltoken/xQgGyibNbpXFBYkiw5Yaxg]
 .[https://intranet.aluswe.com/rltoken/G_mzqm_oYdNwGPKZge4_rA]
