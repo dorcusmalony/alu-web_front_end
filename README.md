@@ -9,7 +9,7 @@
 - [Media Queries | A collection of inspirational websites using media queries and responsive web design](https://intranet.aluswe.com/rltoken/PqArRPtHixQ9AXlqHFYz7g)
 - Responsive Design Newsletter
 - [Learning Objectives](https://intranet.aluswe.com/rltoken/Ns5mpWBzoEfMOpcFSfAn6)
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+### At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 - Mobile-first design
 - Media-queries
