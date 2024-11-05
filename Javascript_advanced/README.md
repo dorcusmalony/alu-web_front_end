@@ -8,7 +8,7 @@
 
 ## Learning Objectives
 
-- [Learn lexical scoping in JavaScript]
+- Learn lexical scoping in JavaScript
 - [Learn closure in JavaScript]
 - [How to use closure]
 - [How to chain different closures]
