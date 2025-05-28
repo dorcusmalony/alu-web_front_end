@@ -2,11 +2,11 @@
 ## Resources
 ## Read or watch:
 
-- [The building blocks of responsive design Progressive web apps | MDN](https://intranet.aluswe.com/rltoken/Puy0XAcklI5NcDiqv1fR2A)
-- [A pragmatic guide to designing and building responsive web applications | developerlife. com](https://intranet.aluswe.com/rltoken/_Jp3-ZZgmx9YAnGzz7XQDg)
+- (The building blocks of responsive design Progressive web apps MDN)[https://intranet.aluswe.com/rltoken/Puy0XAcklI5NcDiqv1fR2A]
+- [A pragmatic guide to designing and building responsive web applications  developerlife. com](https://intranet.aluswe.com/rltoken/_Jp3-ZZgmx9YAnGzz7XQDg)
 - [Understanding the difference between mobile-first, adaptive and responsive design](https://intranet.aluswe.com/rltoken/bQi81J9WbzXZzvRCqXdecw)
 - [LukeW | Mobile First](https://intranet.aluswe.com/rltoken/yzm7hmicxyzT60TdFfMT7w)
-- [Media Queries | A collection of inspirational websites using media queries and responsive web design](https://intranet.aluswe.com/rltoken/PqArRPtHixQ9AXlqHFYz7g)
+- [Media Queries  A collection of inspirational websites using media queries and responsive web design](https://intranet.aluswe.com/rltoken/PqArRPtHixQ9AXlqHFYz7g)
 - Responsive Design Newsletter
 - [Learning Objectives](https://intranet.aluswe.com/rltoken/Ns5mpWBzoEfMOpcFSfAn6)
 ### At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
